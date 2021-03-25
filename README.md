@@ -3,7 +3,7 @@
 ## Embedded System
 ### Designed through Arduino.
 
-### Components
+## Components
 #### - Photoresistor: as the piano keys
 #### - Ultrasonic sensor: detect the distance to change the pitch between tenor and middle pitch
 #### - buzzer
